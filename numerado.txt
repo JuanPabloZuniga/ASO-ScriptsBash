@@ -1,0 +1,12 @@
+1:/home/alumno/ejerciciocase.sh
+2:/home/alumno/ejercicio5-1.sh
+3:/home/alumno/ejercicio6-1.sh
+4:/home/alumno/ejercicio5.sh
+5:/home/alumno/ejercicio7.sh
+6:/home/alumno/ejercicio2.sh
+7:/home/alumno/ejerciciocasesalir.sh
+8:/home/alumno/ejercicio6.sh
+9:/home/alumno/ejercicio4.sh
+10:/home/alumno/ejercicio3.sh
+11:/home/alumno/ejercicio1.sh
+hola

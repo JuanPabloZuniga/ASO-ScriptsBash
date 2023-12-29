@@ -1,0 +1,11 @@
+/home/alumno/ejerciciocase.sh
+/home/alumno/ejercicio5-1.sh
+/home/alumno/ejercicio6-1.sh
+/home/alumno/ejercicio5.sh
+/home/alumno/ejercicio7.sh
+/home/alumno/ejercicio2.sh
+/home/alumno/ejerciciocasesalir.sh
+/home/alumno/ejercicio6.sh
+/home/alumno/ejercicio4.sh
+/home/alumno/ejercicio3.sh
+/home/alumno/ejercicio1.sh

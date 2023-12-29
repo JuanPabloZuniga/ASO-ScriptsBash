@@ -1,0 +1,8 @@
+El comando sed es otro filtro que permite hacer modificaciones a los ficheros.
+
+sed “s/cadena1/cadena2/” fichero
+
+ leerá el fichero línea a línea, de manera que si en una línea se encuentra el
+patrón cadena1, se realiza la sustitución de la primera ocurrencia de cadena1 
+encontrada por cadena2 y se escribe la línea en la salida estándar; aquellas líneas
+ donde no aparece ningún patrón coincidente, se escriben sin modificar.
